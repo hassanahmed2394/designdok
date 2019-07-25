@@ -1,0 +1,12 @@
+Code That We Should Put Before Doctype HTML 
+: <?php require_once('nitropack_include.php'); ?>
+
+
+Webhooks And Webhooks Cache URLs 
+
+: 
+
+
+1- https://websitename.com/nitropack_webhooks.php?nitroWebhookType=config
+
+2- https://websitename.com/nitropack_webhooks.php?nitroWebhookType=cacheClear
