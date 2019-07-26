@@ -131,12 +131,12 @@
    </div>
 </div>
 
-<div class="stiky_foter">
+<!-- <div class="stiky_foter">
   <figure style="background-image: url(assets/images/linda-dok.jpg);"> </figure>
   <p>Let’s conceptualize and design your idea 
 with a creative professionals. </p>
   <a href="javascript:;" class="chatbtn linddbtn">Chat to get 50% Discount</a>
-</div>
+</div> -->
 
 <script type='text/javascript' src='assets/js/mlib.js'></script>
 <script type="text/javascript" src="assets/js/jPages.js"></script>
