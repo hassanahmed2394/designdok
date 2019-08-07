@@ -18,6 +18,9 @@
                 document.getElementById('location').value = window.location.href;
               </script>
               <input type="hidden" name="hiddencapcha" value="">
+              <input type="hidden" name="pc" value="">
+                <input type="hidden" name="cip" value="">
+                <input type="hidden" name="ctry" value="">
               <input type="hidden" id="location" name="blocationURL" value="" />
         </div>
     </form>
